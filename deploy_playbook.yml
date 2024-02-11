@@ -1,4 +1,4 @@
-- name: Manage Docker image from a private Nexus registry
+- name: deploy app
   hosts: all
   
   tasks:
